@@ -25,6 +25,30 @@ Feedback 01 groep - 13 mei 2020 - Jamil, Martijn, Omar
 Samen met een groep gaven we elkaar feedback om hierop te intereren. De fragment liet ik zien die eruit ziet als de screenshot voorgaand. Als feedback kreek ik om bepaalde lettertypes te vergroten om de emoties meer naar voren te brengen.
 
 Feedback 01 Vasilis - 14 mei 2020
+
+Dit is de link die ik heb getest met de docent en de doelgroep: https://shafiek31.github.io/web-typography-05/
+
 De fragment liet ik zien tijdens de feedback-sessie met Vasilis. Hij gaf aan dat ik veel deed met typografie en kleuren om bepaalde woorden harder aan te spreken. Maar was dat wel nodig? Wanneer zijn zulke stylen nodig? Helpt het om de inhoud te versterken voor de gebruiker?
 
 Als eigen toevoeging vertelde ik dat ik meer wilde doen met de achtergrond in verschillende kleuren of daadwerkeljk een emotie te geven. 
+
+Feedback 01 Marie - 14 mei 2020
+Elk student kreeg 7 minuten de kans om te testen met Marie, de doelgroep.
+Tijdens deze sessie heb ik zowel plus en minpunten opgevangen.
++ Fuck off zag er goed uit.
++ Lettertypes, passen bij elkaar.
++ De stemmen komen goed over, de posities staan goed.
++ Sfeer van de tekst en beeld komen goed over.
+-----------------
+- Kleur effecten, is dat nodig? Wanneer is het nodig?
+- Droom is in het blauw, waarom?
+- Dik-gedrukt maakt het moeilijk leesbaar.      
+- Beeld word pas aan het eind klein.
+- Probeer meer met achtergrond sfeer te werken.
+- De tekst staan niet in het beeld plaatsen.
+
+Conclusie: Ik moet beter kijken naar de teksten en daarbij de juiste kleur-effecten. Daarnaast bepalen welke teksten eventueel een effect moet hebben om het duidelijk te maken. Als laatst spelen met de achtergrond om de sfeer te bepalen.
+
+Week03
+
+
