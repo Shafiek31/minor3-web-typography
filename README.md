@@ -15,6 +15,8 @@ Beide screenshot hieronder wilde ik de code verkennen en spelen met de typografi
 
 De eerste week ben ik zelf gaan experimenteren in de code en het stylen.
 
+---------------------
+
 Week02
 Ik ben verder gegaan met experimenteren en stylen. Ik kwam later achter dat de achtergrond ook veel temaken heeft met de emoties van de fragment. Tijdens het experimenteren heb ik gekozen om alle lettertypes te stylen en de achtergrond een ander kleur te geven. De stylen staan hieronder verwerkt. 
 
@@ -35,11 +37,14 @@ Als eigen toevoeging vertelde ik dat ik meer wilde doen met de achtergrond in ve
 Feedback 01 Marie - 14 mei 2020
 Elk student kreeg 7 minuten de kans om te testen met Marie, de doelgroep.
 Tijdens deze sessie heb ik zowel plus en minpunten opgevangen.
+
+Pluspunten:
 + Fuck off zag er goed uit.
 + Lettertypes, passen bij elkaar.
 + De stemmen komen goed over, de posities staan goed.
 + Sfeer van de tekst en beeld komen goed over.
------------------
+
+Minpunten:
 - Kleur effecten, is dat nodig? Wanneer is het nodig?
 - Droom is in het blauw, waarom?
 - Dik-gedrukt maakt het moeilijk leesbaar.      
@@ -48,6 +53,8 @@ Tijdens deze sessie heb ik zowel plus en minpunten opgevangen.
 - De tekst staan niet in het beeld plaatsen.
 
 Conclusie: Ik moet beter kijken naar de teksten en daarbij de juiste kleur-effecten. Daarnaast bepalen welke teksten eventueel een effect moet hebben om het duidelijk te maken. Als laatst spelen met de achtergrond om de sfeer te bepalen.
+
+-------------------------
 
 Week03
 
